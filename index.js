@@ -10,7 +10,7 @@ let createNoteObject = new Input();
 let newNote = new Notes(createNoteObject);
 
 newNote.execute(createNoteObject);
-newNote.add(createNoteObject);
+// newNote.add(createNoteObject);
 
 
 
