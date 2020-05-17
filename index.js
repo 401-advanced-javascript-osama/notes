@@ -1,10 +1,12 @@
-const Input = require('./lib/input') 
+#!/usr/bin/env node
 
-const Notes = require('./lib/notes') 
-// Input()
+const Input = require('./lib/input')
+
+const Notes = require('./lib/notes')
+
 
 let createNoteObject = new Input();
-// console.log(myNote);
+
 let newNote = new Notes(createNoteObject);
 
 newNote.execute(createNoteObject);
