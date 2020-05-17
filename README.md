@@ -6,7 +6,7 @@
 
 ### Links and Resources
 
-- [submission PR](https://github.com/401-advanced-javascript-osama/notes/pull/1)
+- [submission PR](https://github.com/401-advanced-javascript-osama/notes/pull/3)
 
 
 ### Modules
