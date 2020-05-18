@@ -33,7 +33,8 @@
 #### Tests
 - Test: '`node index.js (anything except [--add || -a || --a]) 'creating my first note'`' => 'you should use (--add) or (--a/-a) to add a message'
 
-
+- Unit Tests : `npm test`
+- Unit Tests : `npm run lint`
 #### UML
 
 ![UML Diagram](./UML-imgs/class-01.jpg)
