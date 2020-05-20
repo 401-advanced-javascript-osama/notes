@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+const mongoose = require('mongoose');
 
 const Input = require('./lib/input');
 
@@ -12,7 +13,5 @@ let newNote = new Notes(createNoteObject);
 //execute methode
 
 newNote.execute(createNoteObject);
-
-
 
 
