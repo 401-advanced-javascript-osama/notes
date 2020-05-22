@@ -21,15 +21,15 @@
 
 #### How to initialize/run your application (where applicable)
 
-- e.g. `node index.js --add  -- category 'creating my first note'`
-- e.g. `node index.js -a -- category 'creating my first note'`
-- e.g. `node index.js --a -- category 'creating my first note'`
-- e.g. `./index.js --add -- category 'creating my first note'`
-- e.g. `./index.js -a -- category 'creating my first note'`
-- e.g. `./index.js --a -- category  'creating my first note'`
-- e.g. `./index.js --list show all categories`
-- e.g. `./index.js --list some_category show all  recored from a category`
-- e.g. `./index.js --delete some_id delete item with that id`
+- e.g. `node index.js --add  --category 'creating my first note'`
+- e.g. `node index.js -a --category 'creating my first note'`
+- e.g. `node index.js --a --category 'creating my first note'`
+- e.g. `node index.js --add --category 'creating my first note'`
+- e.g. `node index.js -a --category 'creating my first note'`
+- e.g. `node index.js --a --category  'creating my first note'`
+- e.g. `node index.js --list show all categories`
+- e.g. `node index.js --list some_category show all  recored from a category`
+- e.g. `node index.js --delete some_id delete item with that id`
 
 
 #### How to use your library (where applicable)
