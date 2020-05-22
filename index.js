@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-
 const Input = require('./lib/input');
 
 const Notes = require('./lib/notes');
@@ -12,7 +11,5 @@ let newNote = new Notes(createNoteObject);
 //execute methode
 
 newNote.execute(createNoteObject);
-
-
 
 
