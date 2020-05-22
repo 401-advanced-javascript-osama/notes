@@ -1,6 +1,4 @@
 #!/usr/bin/env node
-const mongoose = require('mongoose');
-
 const Input = require('./lib/input');
 
 const Notes = require('./lib/notes');

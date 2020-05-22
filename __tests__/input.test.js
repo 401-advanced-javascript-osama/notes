@@ -8,7 +8,6 @@ jest.mock('minimist');
 minimist.mockImplementation(() => {
   return {
     add: 'hellooo',
-
   };
 });
 
