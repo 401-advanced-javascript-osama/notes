@@ -24,7 +24,7 @@
   "homepage": "https://github.com/401-advanced-javascript-osama/notes#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "mongoose": "^5.9.15",
     "superagent": "^5.2.2"
   },
